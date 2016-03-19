@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Movixter</string>
+    <string name="app_email">info@madri.me</string>
+    <string name="app_icon">App Icon</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="tmdb_base_url">http://api.themoviedb.org/</string>
+    <string name="tmdb_api_key">2c7582fe740811561269db77cb5cff6b</string>
+    <string name="default_content_description">Movie Name</string>
+    <string name="search_nav_bar_text">Search Movies</string>
+    <string name="title_key">Title</string>
+    <string name="overview_key">Overview</string>
+    <string name="genre_list_key">Genres</string>
+    <string name="backdrop_path_key">Backdrop Path</string>
+    <string name="release_date_key">Release Date</string>
+    <string name="popularity_key">Popularity</string>
+    <string name="vote_average_key">Vote Average</string>
+    <string name="total_votes_key">Vote Count</string>
+</resources>

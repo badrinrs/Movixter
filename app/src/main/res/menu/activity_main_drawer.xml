@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/discover_popular_movies"
+            android:icon="@drawable/ic_launch_black_24dp"
+            android:title="Popular Movies"/>
+        <item
+            android:id="@+id/search_movies"
+            android:icon="@drawable/ic_search_black_24dp"
+            android:title="@string/search_nav_bar_text"/>
+        <item
+            android:id="@+id/discover_popular_tv"
+            android:icon="@drawable/ic_assignment_ind_black_24dp"
+            android:title="Popular TV Series"/>
+        <item
+            android:id="@+id/search_tv"
+            android:icon="@drawable/ic_add_to_queue_black_24dp"
+            android:title="Search TV Series"/>
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share"/>
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send"/>
+        </menu>
+    </item>
+
+</menu>
